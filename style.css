@@ -1,0 +1,27 @@
+.box{
+    width: 450px;
+    height: 220px;
+    background-color: red;
+    border-radius: 4px;
+    margin-top: 150px;
+    margin-left: 200px;
+} 
+.btn{
+    margin-top: 10px;
+    margin-left: 390px;
+    border-radius: 4px;
+    
+}
+p{
+    color: white;
+    background-color: black;
+    margin-left:140px;
+    border-radius: 4px;
+    padding: 10px;
+    height: fit-content;
+    width: fit-content ;
+}
+button{
+    background-color: red;
+    color: white;
+}
